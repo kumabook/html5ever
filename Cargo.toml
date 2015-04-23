@@ -17,9 +17,9 @@ phf = "0.7"
 phf_macros = "0.7"
 
 [dependencies.string_cache]
-git = "https://github.com/servo/string-cache"
+git = "https://github.com/kumabook/string-cache"
 [dependencies.string_cache_plugin]
-git = "https://github.com/servo/string-cache"
+git = "https://github.com/kumabook/string-cache"
 
 [dependencies.mac]
 git = "https://github.com/reem/rust-mac"
